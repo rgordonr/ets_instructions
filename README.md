@@ -86,7 +86,7 @@ In this case, we only have one prior event needing furthe data (the home screen 
 
 # Completing your Daily Time Diary
 
-In addition to reporting emotions and contextual details about the events surrounding your emotions, we want to know about the activities you engage in throughout your day.
+In addition to reporting emotions and contextual details about the events surrounding your emotions, we want to know about the activities you engage in throughout your day. You provide us this data by completing a time diary for each day of the study.
 
 If you look back at this screen shot, you'll se that we have one diary that needs our attention:
 
@@ -95,5 +95,18 @@ If you look back at this screen shot, you'll se that we have one diary that need
 If you tap Yesterday to find out more about what's needed, you see this:
 
 <img src="https://terpconnect.umd.edu/~rrinderk/TD_instructions/13.png" width="400">
+
+Tapping the Update Your Time Diary button then leads you to this screen:
+
+<img src="https://terpconnect.umd.edu/~rrinderk/TD_instructions/14.png" width="400">
+
+At the moment this screen is pretty barren, but we will soon fill it with the activities we engaged in throughout the day, starting at midnight. By tapping Add Next Activity you'll begin this process, which will proceed similarly to when you reported contextual details for your emotions. Once you complete your first activity of the day, your screen will now look something like this:
+
+<img src="https://terpconnect.umd.edu/~rrinderk/TD_instructions/15.png" width="400">
+
+You will be prompted to continue adding activities until you've covered 24 hours of time. At this point, the Add Next Activity button will disappar and a message at the top of the screen will indicate that you have completed the time diary for that specific day. Your screen would now look something like this:
+
+<img src="https://terpconnect.umd.edu/~rrinderk/TD_instructions/16.png" width="400">
+
 
 
