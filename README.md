@@ -19,7 +19,7 @@ In what follows, I will explain the four different processes you will go through
 
 # Reporting your Emotions
 
-Assuming you've already logged into the app, the app will look something like this when you first open it:
+Assuming you've already logged in to the app, the app will look something like this when you first open it:
 
 <img src="https://terpconnect.umd.edu/~rrinderk/TD_instructions/1.png" width="400">
 
@@ -39,7 +39,7 @@ You are now free to exit the app and go about your day.
 
 When you report how you're feeling, we create what we call an "emotion event". You provide context for this event on our main website. You can access this website via the in-app browser (by tapping REPORT DATA) or via a normal browser using the url we gave you when you signed up for the study. (You are welcome to email us if you have forgotten this url).
 
-The first time you attempt to visit the main website, you'll need to log in using the same credentials you used to log into the app. Once you've logged, your screen will look like this:
+The first time you attempt to visit the main website, you'll need to log in using the same credentials you used to log in to the app. Once you've logged in, your screen will look like this:
 
 <img src="https://terpconnect.umd.edu/~rrinderk/TD_instructions/6.png" width="400">
 
