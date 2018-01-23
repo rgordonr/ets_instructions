@@ -10,7 +10,7 @@ Beyond knowing how you feel, we also want to know information about the context 
 
 Lastly, we want to know broadly about the events that transpire throughout your day-to-day life. We collect these data from you using a time diary (also found on the main website). Each day of this study will have its own diary. To complete a diary for a certain day, you will first start by reporting what you were doing at midnight of this day, how long this activity lasted, and other details. You will continue reporting activities until you've reported on at least 24 hours.
 
-**Overall, throughout the course of this study, you have two central responsibilities**. You need to **(1) respond to the prompts to report emotions** and **(2) periodically (ideally, each day) visit the main website** to see what data are needed from you.
+**In this study, you have two central responsibilities.** You need to **(1) respond to the prompts to report emotions** and **(2) periodically (ideally, each day) visit the main website** to see what data to provide further data.
 
 In what follows, I will cover the process you will go through to:
 
@@ -63,3 +63,19 @@ I reported feeling excited earlier in this tutorial, which is why it is now show
 We are now about to provide further context for one of our events. The first thing the website wants to know if the activity we were engaging in when we reported our emotions. There are several preset options available to you. They appear in the window below the text entry as you begin to type out what you were doing. For example, if I typed Work, I'd see this:
 
 <img src="https://terpconnect.umd.edu/~rrinderk/TD_instructions/10.png" width="400">
+
+Please try to find the category that best fits your activity. If no category exists, feel free to type out your own activity.
+
+After you are done describing what you were doing, you then tell us about who was also present and where the activity occured. Once you submit your response, you'll be taken back to the previous page. For me, it now looks like this:
+
+<img src="https://terpconnect.umd.edu/~rrinderk/TD_instructions/11.png" width="400">
+
+There is now one fewer event that needs my attention for the current day. If I navigate back to the home page, I am again informed that 1 event needs my attention for today.
+
+<img src="https://terpconnect.umd.edu/~rrinderk/TD_instructions/12.png" width="400">
+
+If I ignore this one event for the rest of today and returned to the main website tomorrow, I would still be informed that 1 event(s) needs my attention. However, this alert would now appear in the Tomorrow cell rather than in the Today cell. You can report context for your emotions either during the same day you reported the data, or during the following day.
+
+# Reporting Follow-up Data about your Events
+
+
