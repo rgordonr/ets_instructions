@@ -41,3 +41,25 @@ Your screen should now look like this:
 You are now free to exit the app and go about your day.
 
 # Reporting Context for your Emotions
+
+When you report how you're feeling, we create what we call an "emotion event". You provide context for this event on our main website. You can access this website via the in-app browser (by tapping REPORT DATA) or via a normal browser using the url we gave you when you signed up for the study. (You are welcome to email us if you have forgotten this url).
+
+The first time you attempt to visit the main website, you'll need to log in using the same credentials you used to log into the app. Once you've logged, your screen will look like this:
+
+<img src="https://terpconnect.umd.edu/~rrinderk/TD_instructions/6.png" width="400">
+
+All data you submit in this study is categorized by date, and the three cells on the main website (Today, Yesterday, and Follow-up Data) correspond to the time periods you may be asked to report data about. You can tap each cell to learn more about the data we need from you. For example, if you tap Today, your screen would now look like this:
+
+<img src="https://terpconnect.umd.edu/~rrinderk/TD_instructions/7.png" width="400">
+
+I will explain the time diary in a later section. For right now, notice that "2 event(s) need your attention". We categorize your emotion events by their submission date. The main website it telling us that I reported how I was feeling two times today but haven't provided further contextual information about my emotions. If I tap Update Your Events, the screen would look like this:
+
+<img src="https://terpconnect.umd.edu/~rrinderk/TD_instructions/8.png" width="400">
+
+I reported feeling excited earlier in this tutorial, which is why it is now showing up here. However, several hours earlier I reported feeling at ease, excited, and proud. I can tap on either of these events to provide further context. If I tap on the earlier event, the screen would now look like this:
+
+<img src="https://terpconnect.umd.edu/~rrinderk/TD_instructions/9.png" width="400">
+
+We are now about to provide further context for one of our events. The first thing the website wants to know if the activity we were engaging in when we reported our emotions. There are several preset options available to you. They appear in the window below the text entry as you begin to type out what you were doing. For example, if I typed Work, I'd see this:
+
+<img src="https://terpconnect.umd.edu/~rrinderk/TD_instructions/10.png" width="400">
