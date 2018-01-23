@@ -23,3 +23,11 @@ In what follows, I will cover the process you will go through to:
 Assuming you've already logged in to the app, the app will look like something like this when you first open it:
 
 <img src="https://terpconnect.umd.edu/~rrinderk/TD_instructions/1.png" width="400">
+
+You scroll through the list of emotions to find those that adaquately capture how you're feeling. After you make a selection, you will be asked to report the intensity of your emotion from 1 to 7.
+
+<img src="https://terpconnect.umd.edu/~rrinderk/TD_instructions/2.png" width="400">
+
+Once you've made a decision, you can tap the ADD EMOTION button to append this emotion to your submission. If you had reported being moderately excited, your screen will now look like this:
+
+<img src="https://terpconnect.umd.edu/~rrinderk/TD_instructions/4.png" width="400">
