@@ -105,6 +105,6 @@ You will be prompted to continue adding activities until you've covered 24 hours
 
 <img src="https://terpconnect.umd.edu/~rrinderk/TD_instructions/16.png" width="400">
 
-You progress is automatically saved every time you report an activity to your diary. You also do not need to complete your diary in one sitting. In fact, you can begin completing your diary for the current day (by tapping Today and then tapping Update Your Diary) and finish this diary the following day. You will be unable to complete your time diary for the current day because you are not allowed to report on activities that occur in the future.
+Your progress is automatically saved every time you report an activity to your diary. You also do not need to complete your diary in one sitting. In fact, you can begin completing your diary for the current day (by tapping Today and then tapping Update Your Diary) and finish this diary the following day. You will be unable to complete your time diary for the current day because you are not allowed to report on activities that occur in the future.
 
 
