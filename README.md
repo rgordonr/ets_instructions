@@ -2,15 +2,15 @@ If encounter any issues while participating in this study, please contact us at 
 
 # Study Procedures
 
-In this study you will report your emotional experiences throughout each day of the study. The app you installed on your phone should prompt you to report these experiences up to six times a day between 9am and 9pm. We understand that you may be unable to response to all of these prompts, but we hope you will be able to respond to most of them. You can also report your emotions without being prompted by a notification.
+In this study you will report your emotional experiences throughout each day of the study. The app you installed on your phone should prompt you to report these experiences up to six times a day between 9am and 9pm. We understand that you may be unable to response to all of these prompts, but we hope you can respond to most of them. You can also report your emotions without being prompted by a notification.
 
 Beyond knowing how you feel, we also want to know information about the context surrounding your emotions, like where you were, who you were with, and what you were doing. However, dropping what you're doing to answer these questions in addition to reporting emotions would be overly burdensome. To keep things convenient for you, you can supply this extra data on the main website (accessible by tapping REPORT DATA at the bottom of the app's screen) at a more conveinent time. I will explain more about this process in the next section.
 
 Lastly, we want to know broadly about the events that transpire throughout your day-to-day life. We collect these data from you using a time diary (also found on the main website). Each day of this study will have its own diary. To complete a diary for a certain day, you will first start by reporting what you were doing at midnight of this day, how long this activity lasted, and other details. You will continue reporting activities until you've reported on at least 24 hours.
 
-In this study, you have two central responsibilities. You need to **(1) respond to the notification asking how you are feeling** and **(2) periodically (ideally, each day) visit the main website** to provide additional data about your emotional experiences and daily activities.
+In this study, you have two central responsibilities. You need to **(1) respond to the notifications asking how you are feeling** and **(2) periodically (ideally, each day) visit the main website** to provide additional data about your emotional experiences and daily activities.
 
-In what follows, I will cover the process you will go through to:
+In what follows, I will explain the four different processes you will go through to report data in this study:
 
 * report emotions
 * provide context for these emotions
@@ -19,7 +19,7 @@ In what follows, I will cover the process you will go through to:
 
 # Reporting your Emotions
 
-Assuming you've already logged in to the app, the app will look something like this when you first open it:
+Assuming you've already logged into the app, the app will look something like this when you first open it:
 
 <img src="https://terpconnect.umd.edu/~rrinderk/TD_instructions/1.png" width="400">
 
