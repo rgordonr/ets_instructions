@@ -32,8 +32,12 @@ Once you've made a decision, you can tap the ADD EMOTION button to append this e
 
 <img src="https://terpconnect.umd.edu/~rrinderk/TD_instructions/4.png" width="400">
 
-Once you've selected at least one emotion, a button will apear at the bottom of the screen labeled SUBMIT EMOTIONS. If you tap this button, the screen will reset and the counter in the top left will increment by 1. This is all you need to do to respond when the app prompts you to know how you're feeling. Your screen should now look like this:
+Once you've selected at least one emotion, a button will apear at the bottom of the screen labeled SUBMIT EMOTIONS. If you tap this button, the screen will reset and the counter in the top left will increment by 1. This is all you need to do to respond when the app prompts you to know how you're feeling. 
+
+Your screen should now look like this:
 
 <img src="https://terpconnect.umd.edu/~rrinderk/TD_instructions/5.png" width="400">
 
-# Reporting Conect for your Emotions
+You are free to exit the app and go about your day.
+
+# Reporting Context for your Emotions
