@@ -57,7 +57,7 @@ I reported feeling excited earlier in this tutorial, which is why it is now show
 
 <img src="https://terpconnect.umd.edu/~rrinderk/TD_instructions/9.png" width="400">
 
-We are now about to provide further context for one of our events. The first thing the website wants to know is the activity you were engaged in when you reported our emotions. There are several preset options available to you. They appear in the window below the text entry as you begin to type out what you were doing. For example, if I typed "Work", I'd see this:
+We are now about to provide further context for one of our events. The first thing the website wants to know is the activity you were engaged in when you reported your emotions. There are several preset options available to you. They appear in the window below the text entry as you begin to type out what you were doing. For example, if I typed "Work", I'd see this:
 
 <img src="https://terpconnect.umd.edu/~rrinderk/TD_instructions/10.png" width="400">
 
