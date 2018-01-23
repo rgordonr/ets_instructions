@@ -1,6 +1,4 @@
-# Study Instructions
-
-This is an overview of the study you are currently enrolled in and the software you will use to complete this study.
+If encounter any issues while participating in this study, please contact us at groupslab@umd.edu.
 
 # Study Procedures
 
