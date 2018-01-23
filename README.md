@@ -8,9 +8,15 @@ In this study you will report your emotional experiences throughout each day of 
 
 Beyond knowing how you feel, we also want to know information about the context surrounding your emotions, like where you were, who you were with, and what you were doing. However, dropping what you're doing to answer these questions in addition to reporting emotions would be overly burdensome. To keep things convenient for you, you can supply this extra data on the main website (accessible by tapping REPORT DATA at the bottom of the app's screen). I will explain more about this process in the next section.
 
-Lastly, we want to know broadly about the events that transpire throughout your day-to-day life. We collect these data from you using a time diary. Each day of this study will have its own diary. To complete a diary for a certain day, you will first start by reporting what you were doing at midnight of this day, how long this activity lasted, and other details. You will continue reporting activities until you've reported on at least 24 hours. Time diaries are completed on the main website.
+Lastly, we want to know broadly about the events that transpire throughout your day-to-day life. We collect these data from you using a time diary (also found on the main website). Each day of this study will have its own diary. To complete a diary for a certain day, you will first start by reporting what you were doing at midnight of this day, how long this activity lasted, and other details. You will continue reporting activities until you've reported on at least 24 hours.
 
-Overall, throughout the course of this study, you need to respond to the prompts to report emotions and periodically (ideally, daily) visit the main website to see what data are needed from you.
+Overall, throughout the course of this study, you need to respond to the prompts to report emotions and periodically (ideally, each day) visit the main website to see what data are needed from you.
+
+In what follows, I will cover the process you will go through to:
+
+* report emotions
+* provide context for these emotions
+* complete your daily time diary
 
 
 <img src="https://terpconnect.umd.edu/~rrinderk/TD_instructions/1.png" width="400">
