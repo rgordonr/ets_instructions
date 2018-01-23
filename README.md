@@ -19,6 +19,8 @@ In what follows, I will explain the four different processes you will go through
 
 # Reporting your Emotions
 
+Once you log in to the Emotions Diary app, you will begin to receive push notifications throughout the day. These notifications will ask how you're feeling. If you tap the notification, you will be taken directly to the app.
+
 Assuming you've already logged in to the app, the app will look something like this when you first open it:
 
 <img src="https://terpconnect.umd.edu/~rrinderk/TD_instructions/1.png" width="400">
