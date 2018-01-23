@@ -18,7 +18,7 @@ In what follows, I will cover the process you will go through to:
 * provide context for these emotions
 * complete your daily time diary
 
-** Reporting your emotions
+# Reporting your emotions
 
 Assuming you've already logged in to the app, the app will look like something like this when you first open it:
 
