@@ -61,7 +61,7 @@ We are now about to provide further context for one of our events. The first thi
 
 <img src="https://terpconnect.umd.edu/~rrinderk/TD_instructions/10.png" width="400">
 
-Please try to find the category that best fits your activity. If no category exists, feel free to type out your own activity.
+Please try to find the category that best fits your activity. Once you identify it, you simply need to tap it once. If no category exists, feel free to type out your own activity.
 
 After you are done describing what you were doing, you then tell us about who was also present and where the activity occurred. Once you submit your response, you'll be taken back to the previous page. For me, it now looks like this:
 
