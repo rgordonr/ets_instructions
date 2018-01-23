@@ -22,9 +22,9 @@ In what follows, I will cover the process you will go through to:
 # Reporting your Emotions
 
 Assuming you've already logged in to the app, the app will look something like this when you first open it:
-*
+<br>
 <img src="https://terpconnect.umd.edu/~rrinderk/TD_instructions/1.png" width="400">
-*
+<br>
 You scroll through the list of emotions to find those that adequately capture how you're feeling. After you make a selection, you will be asked to report the intensity of your emotion from 1 to 7.
 
 <img src="https://terpconnect.umd.edu/~rrinderk/TD_instructions/2.png" width="400">
