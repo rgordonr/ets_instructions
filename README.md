@@ -65,11 +65,11 @@ After you are done describing what you were doing, you then tell us about who wa
 
 <img src="https://terpconnect.umd.edu/~rrinderk/TD_instructions/11.png" width="400">
 
-There is now one fewer event that needs my attention for the current day. If I navigate back to the home page, I am again informed that 1 event needs my attention for today.
+There is now one fewer event that needs my attention for the current day. If I navigate back to the home page, I am again informed that 1 event needs attention in the Today cell.
 
 <img src="https://terpconnect.umd.edu/~rrinderk/TD_instructions/12.png" width="400">
 
-If I ignore this one event for the rest of today and returned to the main website tomorrow, I would still be informed that 1 event(s) needs my attention. However, this alert would now appear in the Tomorrow cell rather than in the Today cell. You can report context for your emotions either during the same day you reported the data or during the following day.
+If I ignore this one event for the rest of today and returned to the main website tomorrow, I would still be informed that 1 event(s) needs attention. However, this alert would now appear in the Tomorrow cell rather than in the Today cell. You can report context for your emotions either during the same day you reported the data or during the following day.
 
 # Reporting Follow-up Data about your Emotion Events
 
