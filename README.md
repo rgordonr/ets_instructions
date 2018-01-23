@@ -38,6 +38,6 @@ Your screen should now look like this:
 
 <img src="https://terpconnect.umd.edu/~rrinderk/TD_instructions/5.png" width="400">
 
-You are free to exit the app and go about your day.
+You are now free to exit the app and go about your day.
 
 # Reporting Context for your Emotions
