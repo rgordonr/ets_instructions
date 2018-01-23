@@ -76,6 +76,24 @@ There is now one fewer event that needs my attention for the current day. If I n
 
 If I ignore this one event for the rest of today and returned to the main website tomorrow, I would still be informed that 1 event(s) needs my attention. However, this alert would now appear in the Tomorrow cell rather than in the Today cell. You can report context for your emotions either during the same day you reported the data, or during the following day.
 
-# Reporting Follow-up Data about your Events
+# Reporting Follow-up Data about your Emotion Events
+
+We will periodically have brief follow-up questions for you regarding the events that you reported on earlier in the study. You will be alerted to these followups by a red number in the corner of the Follow-up Data cell. If you tap on the cell, you will see something like this:
+
+<img src="https://terpconnect.umd.edu/~rrinderk/TD_instructions/17.png" width="400">
+
+In this case, we only have one prior event needing furthe data (the home screen indicated there were 2, but I completed one before taking the screen shot). Just like in the previous section, you can provide data about an event by tapping it and then supplying the requested data.
+
+# Completing your Daily Time Diary
+
+In addition to reporting emotions and contextual details about the events surrounding your emotions, we want to know about the activities you engage in throughout your day.
+
+If you look back at this screen shot, you'll se that we have one diary that needs our attention:
+
+<img src="https://terpconnect.umd.edu/~rrinderk/TD_instructions/12.png" width="400">
+
+If you tap Yesterday to find out more about what's needed, you see this:
+
+<img src="https://terpconnect.umd.edu/~rrinderk/TD_instructions/13.png" width="400">
 
 
