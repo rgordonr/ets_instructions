@@ -4,23 +4,24 @@ This is an overview of the study you are currently enrolled in and the software 
 
 # Study Procedures
 
-In this study you will report your emotional experiences throughout each day of the study. The app you installed on your phone should prompt you to report these experiences up to six times a day between 9am and 9pm. We understand that you will be unable to response to all of these prompts, but we hope you will be able to respond to most of them. You can also report your emotions without being prompted by a notification.
+In this study you will report your emotional experiences throughout each day of the study. The app you installed on your phone should prompt you to report these experiences up to six times a day between 9am and 9pm. We understand that you may be unable to response to all of these prompts, but we hope you will be able to respond to most of them. You can also report your emotions without being prompted by a notification.
 
 Beyond knowing how you feel, we also want to know information about the context surrounding your emotions, like where you were, who you were with, and what you were doing. However, dropping what you're doing to answer these questions in addition to reporting emotions would be overly burdensome. To keep things convenient for you, you can supply this extra data on the main website (accessible by tapping REPORT DATA at the bottom of the app's screen) at a more conveinent time. I will explain more about this process in the next section.
 
 Lastly, we want to know broadly about the events that transpire throughout your day-to-day life. We collect these data from you using a time diary (also found on the main website). Each day of this study will have its own diary. To complete a diary for a certain day, you will first start by reporting what you were doing at midnight of this day, how long this activity lasted, and other details. You will continue reporting activities until you've reported on at least 24 hours.
 
-**In this study, you have two central responsibilities.** You need to **(1) respond to the prompts to report emotions** and **(2) periodically (ideally, each day) visit the main website** to see what data to provide further data.
+In this study, you have two central responsibilities. You need to **(1) respond to the notification asking how you are feeling** and **(2) periodically (ideally, each day) visit the main website** to provide additional data about your emotional experiences and daily activities.
 
 In what follows, I will cover the process you will go through to:
 
 * report emotions
 * provide context for these emotions
+* respond to follow-up questions about your emotions
 * complete your daily time diary
 
 # Reporting your Emotions
 
-Assuming you've already logged in to the app, the app will look like something like this when you first open it:
+Assuming you've already logged in to the app, the app will look something like this when you first open it:
 
 <img src="https://terpconnect.umd.edu/~rrinderk/TD_instructions/1.png" width="400">
 
@@ -28,15 +29,11 @@ You scroll through the list of emotions to find those that adequately capture ho
 
 <img src="https://terpconnect.umd.edu/~rrinderk/TD_instructions/2.png" width="400">
 
-Once you've made a decision, you can tap the ADD EMOTION button to append this emotion to your submission. If you had reported being moderately excited, your screen will now look like this:
+Once you've made a decision, you can tap the ADD EMOTION button to append this emotion to your submission. If you reported being moderately excited, your screen would now look like this:
 
 <img src="https://terpconnect.umd.edu/~rrinderk/TD_instructions/4.png" width="400">
 
 Once you've selected at least one emotion, a button will apear at the bottom of the screen labeled SUBMIT EMOTIONS. If you tap this button, the screen will reset and the counter in the top left will increment by 1. This is all you need to do to respond when the app prompts you to know how you're feeling. 
-
-Your screen should now look like this:
-
-<img src="https://terpconnect.umd.edu/~rrinderk/TD_instructions/5.png" width="400">
 
 You are now free to exit the app and go about your day.
 
@@ -56,11 +53,11 @@ I will explain the time diary in a later section. For right now, notice that "2 
 
 <img src="https://terpconnect.umd.edu/~rrinderk/TD_instructions/8.png" width="400">
 
-I reported feeling excited earlier in this tutorial, which is why it is now showing up here. However, several hours earlier I reported feeling at ease, excited, and proud. I can tap on either of these events to provide further context. If I tap on the earlier event, the screen would now look like this:
+I reported feeling excited earlier in this tutorial, which is why it is now showing up here. However, several hours earlier I reported feeling at ease, excited, and proud. I can tap on either of these events to provide further context. If I tap on the earlier event, the screen would look like this:
 
 <img src="https://terpconnect.umd.edu/~rrinderk/TD_instructions/9.png" width="400">
 
-We are now about to provide further context for one of our events. The first thing the website wants to know if the activity we were engaging in when we reported our emotions. There are several preset options available to you. They appear in the window below the text entry as you begin to type out what you were doing. For example, if I typed Work, I'd see this:
+We are now about to provide further context for one of our events. The first thing the website wants to know is the activity you were engaged in when you reported our emotions. There are several preset options available to you. They appear in the window below the text entry as you begin to type out what you were doing. For example, if I typed "Work", I'd see this:
 
 <img src="https://terpconnect.umd.edu/~rrinderk/TD_instructions/10.png" width="400">
 
@@ -74,21 +71,21 @@ There is now one fewer event that needs my attention for the current day. If I n
 
 <img src="https://terpconnect.umd.edu/~rrinderk/TD_instructions/12.png" width="400">
 
-If I ignore this one event for the rest of today and returned to the main website tomorrow, I would still be informed that 1 event(s) needs my attention. However, this alert would now appear in the Tomorrow cell rather than in the Today cell. You can report context for your emotions either during the same day you reported the data, or during the following day.
+If I ignore this one event for the rest of today and returned to the main website tomorrow, I would still be informed that 1 event(s) needs my attention. However, this alert would now appear in the Tomorrow cell rather than in the Today cell. You can report context for your emotions either during the same day you reported the data or during the following day.
 
 # Reporting Follow-up Data about your Emotion Events
 
-We will periodically have brief follow-up questions for you regarding the events that you reported on earlier in the study. You will be alerted to these followups by a red number in the corner of the Follow-up Data cell. If you tap on the cell, you will see something like this:
+We will periodically have brief follow-up questions for you regarding the events you reported on earlier in the study. You will be alerted to these follow-ups by a red number in the corner of the Follow-up Data cell. If you tap on the cell, you will see something like this:
 
 <img src="https://terpconnect.umd.edu/~rrinderk/TD_instructions/17.png" width="400">
 
-In this case, we only have one prior event needing furthe data (the home screen indicated there were 2, but I completed one before taking the screen shot). Just like in the previous section, you can provide data about an event by tapping it and then supplying the requested data.
+In this case, we only have one prior event needing further data (the home screen indicated there were 2, but I completed one before taking the screenshot). Just like in the previous section, you can provide data about an event by tapping it and then supplying the requested data.
 
 # Completing your Daily Time Diary
 
 In addition to reporting emotions and contextual details about the events surrounding your emotions, we want to know about the activities you engage in throughout your day. You provide us this data by completing a time diary for each day of the study.
 
-If you look back at this screen shot, you'll se that we have one diary that needs our attention:
+If you look back at this screenshot, you'll se that we have one time diary that needs our attention:
 
 <img src="https://terpconnect.umd.edu/~rrinderk/TD_instructions/12.png" width="400">
 
@@ -100,14 +97,14 @@ Tapping the Update Your Time Diary button then leads you to this screen:
 
 <img src="https://terpconnect.umd.edu/~rrinderk/TD_instructions/14.png" width="400">
 
-At the moment this screen is pretty barren, but we will soon fill it with the activities we engaged in throughout the day, starting at midnight. By tapping Add Next Activity you'll begin this process, which will proceed similarly to when you reported contextual details for your emotions. Once you complete your first activity of the day, your screen will now look something like this:
+At the moment this screen is pretty barren. We will soon fill it with the activities we engaged in throughout the day, starting at midnight. By tapping Add Next Activity you'll begin this process, which will proceed similarly to when you reported contextual details for your emotions. Once you complete your first activity of the day your screen will look something like this:
 
 <img src="https://terpconnect.umd.edu/~rrinderk/TD_instructions/15.png" width="400">
 
-You will be prompted to continue adding activities until you've covered 24 hours of time. At this point, the Add Next Activity button will disappar and a message at the top of the screen will indicate that you have completed the time diary for that specific day. Your screen would now look something like this:
+You will be prompted to continue adding activities until you've covered 24 hours of time. At this point, the Add Next Activity button will disappar and a message at the top of the screen will indicate that you have completed the time diary. If you navigate back to the home screen, it would now look something like this:
 
 <img src="https://terpconnect.umd.edu/~rrinderk/TD_instructions/16.png" width="400">
 
-You progress is saved every time you report an activity to your diary. You also do not need to complete your diary in one sitting. In fact, you can begin completing your diary for the current day (by tapping Today and then tapping Update Your Diary) and finish this diary the following day. 
+You progress is automatically saved every time you report an activity to your diary. You also do not need to complete your diary in one sitting. In fact, you can begin completing your diary for the current day (by tapping Today and then tapping Update Your Diary) and finish this diary the following day. You will be unable to complete your time diary for the current day because you are not allowed to report on activities that occur in the future.
 
 
