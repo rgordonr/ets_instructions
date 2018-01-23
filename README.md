@@ -10,7 +10,7 @@ Beyond knowing how you feel, we also want to know information about the context 
 
 Lastly, we want to know broadly about the events that transpire throughout your day-to-day life. We collect these data from you using a time diary (also found on the main website). Each day of this study will have its own diary. To complete a diary for a certain day, you will first start by reporting what you were doing at midnight of this day, how long this activity lasted, and other details. You will continue reporting activities until you've reported on at least 24 hours.
 
-Overall, throughout the course of this study, you need to respond to the prompts to report emotions and periodically (ideally, each day) visit the main website to see what data are needed from you.
+Overall, throughout the course of this study, **you have two central responsibilities**. You need to **(1) respond to the prompts to report emotions** and **(2) periodically (ideally, each day) visit the main website** to see what data are needed from you.
 
 In what follows, I will cover the process you will go through to:
 
