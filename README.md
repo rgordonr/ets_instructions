@@ -1,4 +1,4 @@
-If encounter any issues while participating in this study, please contact us at groupslab@umd.edu.
+If you encounter any issues while participating in this study, please contact us at groupslab@umd.edu.
 
 # Study Procedures
 
